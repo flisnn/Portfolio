@@ -4,8 +4,12 @@
     color: #9f655f;
     background-color: #f4b169;
     font-size: 30px;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .top{
+    margin-top: 50px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -15,17 +19,32 @@
     display: flex;
     flex-direction: column;
     width: 30%;
-    gap: 40px;
+    gap: 100px;
 }
 .big{
     font-size: 52px;
 }
-.smile{
-    
-}
 .white{
-
+    height: 700px;
 }
 .bottom{
-
+    display: flex;
+    height: 1100px;
+    flex-direction: column;
+    align-items: center;
+    gap: 200px;
+}
+.upbottom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+    gap: 40px;
+}
+.downbottom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+    gap: 40px;
 }
