@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #9f655f;
+    background-color: #f4b169;
+    font-size: 52px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.toptop{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    gap: 40px;
+}
+.big{
+    font-size: 70px;
+}
+.smile{
+
+}
+.white{
+
+}
+.bottom{
+
+}
