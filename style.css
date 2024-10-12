@@ -3,7 +3,7 @@
     padding: 0;
     color: #9f655f;
     background-color: #f4b169;
-    font-size: 52px;
+    font-size: 30px;
 }
 .top{
     display: flex;
@@ -18,10 +18,10 @@
     gap: 40px;
 }
 .big{
-    font-size: 70px;
+    font-size: 52px;
 }
 .smile{
-
+    
 }
 .white{
 
